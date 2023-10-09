@@ -20,10 +20,12 @@ Work experience
   
 Skills
 ======
-* be proficient in c++, python
+* Coding
+  * proficient in c++
+  * have a knowledge of HTML,Python,JAVA,Matlab
 * sport
   * badminton
-  * running
+  * running(or jogging)
 
 Publications
 ======
