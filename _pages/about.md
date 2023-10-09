@@ -10,7 +10,7 @@ redirect_from:
 
 Introduction
 ======
-I'm an undergraduate student at [PeKing University](https://www.pku.edu.cn).
+I'm an undergraduate student at [Peking University](https://www.pku.edu.cn).
 
 For more info
 ------
