@@ -8,6 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-======
 I'm an undergraduate student at [Peking University](https://www.pku.edu.cn).
 
