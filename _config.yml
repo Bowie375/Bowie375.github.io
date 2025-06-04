@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bowie / Personal Homepage"
+title                    : "Bowie / Homepage"
 title_separator          : "-"
 name                     : &name "Xiao Bowen"
 description              : &description "undergraduate in PKU"
