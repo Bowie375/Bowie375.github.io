@@ -3,10 +3,11 @@ title: "FoldNet: Learning Generalizable Closed-Loop Policy for Garment Folding v
 collection: publications
 permalink: /publication/foldnet
 excerpt: 'We builds a pipeline for automatic cloth generation and trained a diffusion policy for cloth folding using just synthetic data.'
-date: 2025-5-01
+date: 2025-5-14
 venue: 'CoRL'
 paperurl: 'https://arxiv.org/abs/2505.09109'
-citation: 'Chen, et al. (2025). &quot;FoldNet: Learning Generalizable Closed-Loop Policy for Garment Folding via Keypoint-Driven Asset and Demonstration Synthesis &quot; <i>CoRL</i>'
+citation: 'Y. Chen, B. Xiao, and H. Wang, "FoldNet: Learning generalizable closed-loop policy for garment folding via keypoint-driven asset and demonstration synthesis," *arXiv preprint arXiv:2505.09109*, May 2025. [Online]. Available: https://arxiv.org/abs/2505.09109'
+
 ---
 We builds a pipeline for automatic cloth generation and trained a diffusion policy for cloth folding using just synthetic data. 
 
