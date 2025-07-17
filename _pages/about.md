@@ -16,5 +16,8 @@ My research interests are in the field of deformable object manipulation.
 - [2025.07]: [Robohanger](https://arxiv.org/abs/2412.01083) accepted by RAL 2025.
 
 # Publications
+{% for post in site.publications reversed %}
+  {% include archive-single-publication.html %}
+{% endfor %}
 
 # Services

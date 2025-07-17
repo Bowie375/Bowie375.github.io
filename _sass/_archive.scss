@@ -57,33 +57,65 @@
   }
 }
 
+.archive__item {
+  margin-bottom: 2rem; // or adjust to your preference
+}
+
+.archive__item-content {
+  display: flex;
+  align-items: flex-start; // aligns image top with content top
+  gap: 1rem;
+}
+
+.archive__item-teaser {
+  flex: 0 0 auto;
+  border-radius: $border-radius;
+  margin-top: 0.25em; // tweak this if it still looks slightly off
+
+  img {
+    width: 150px;
+    height: auto; // keep aspect ratio
+    display: block;
+  }
+}
+
+.archive__item-body {
+  flex: 1 1 auto;
+
+  p {
+    margin: 0; // remove vertical spacing by default
+  }
+
+  p + p {
+    margin-top: 0; // no extra spacing between venue and excerpt
+  }
+
+  // Special margin only for authors
+  p:nth-of-type(2) { // assuming authors is the second <p> after title
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+  }
+}
+
 .archive__item-excerpt {
-  margin-top: 0;
   font-size: $type-size-6;
+  margin: 0; // ensure excerpt itself has no top margin
+  color: #6c757d; 
 
   & + p {
     text-indent: 0;
   }
 }
 
-.archive__item-teaser {
-  border-radius: $border-radius;
-  overflow: hidden;
-  img {
-    width: 100%;
-  }
+.archive__item-title {
+  margin: 0 0 0.25em 0; // tighten space under title
 }
 
 .archive__item:hover {
   .archive__item-teaser {
     box-shadow: 0 0 10px rgba(#000, 0.25);
   }
-
-  .archive__item-title {
-    text-decoration: underline;
-  }
 }
-
 
 /*
    List view
