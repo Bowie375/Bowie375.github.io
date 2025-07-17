@@ -1,4 +1,7 @@
 ---
+header:
+  teaser: /images/publications/foldnet.png
+link: https://arxiv.org/abs/2505.09109
 title: "FoldNet: Learning Generalizable Closed-Loop Policy for Garment Folding via Keypoint-Driven Asset and Demonstration Synthesis"
 collection: publications
 permalink: /publication/foldnet
