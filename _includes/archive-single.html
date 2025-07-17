@@ -12,9 +12,8 @@
   {% assign title = post.title %}
 {% endif %}
 
-<div class="{{ include.type | default: "grid" }}__item">
+<div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    <script>console.log("{{ include.type }}, {{teaser}}")</script>
     {% if teaser %}
       <div class="archive__item-teaser">
         <img src=
