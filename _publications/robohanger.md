@@ -3,6 +3,7 @@ title: "RoboHanger: Learning Generalizable Robotic Hanger Insertion for Diverse 
 collection: publications
 permalink: /publication/robohanger
 excerpt: 'We proposed a primitive-based robotic cloth hanging algorithm, it achieved 75% success rate with 8 different unseen garments in the real world.'
+status: 'Published'
 date: 2025-7-11
 venue: 'RAL'
 paperurl: 'https://arxiv.org/abs/2412.01083'
