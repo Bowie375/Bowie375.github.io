@@ -12,9 +12,9 @@ I'm an 3rd year undergraduate student at [Peking University](https://www.pku.edu
 
 My research interests are in the field of deformable object manipulation.
 
-## News
+# News
 - [2025.07]: [Robohanger](https://arxiv.org/abs/2412.01083) accepted by RAL 2025.
 
-## Publications
+# Publications
 
-## Services
+# Services
