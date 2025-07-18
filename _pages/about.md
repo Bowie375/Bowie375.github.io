@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bowen Xiao（肖博文）"
+title: "Bowen Xiao (肖博文)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,16 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I'm an 3rd year undergraduate student at [Peking University](https://www.pku.edu.cn).
+<p>I'm an 3rd year undergraduate student at <a href="https://www.pku.edu.cn">Peking University</a>, majoring in Computer Science.</p>
+<p>My research interests are in the field of deformable object manipulation.</p>
 
-My research interests are in the field of deformable object manipulation.
+<h1>News</h1>
+<ul>
+  <li>[2025.07]: <a href = "https://arxiv.org/abs/2412.01083">Robohanger</a> is accepted by RAL 2025.</li>
+</ul>
 
-# News
-- [2025.07]: [Robohanger](https://arxiv.org/abs/2412.01083) accepted by RAL 2025.
-
-# Publications
+<h1>Publications</h1>
 {% for post in site.publications reversed %}
   {% include archive-single-publication.html %}
 {% endfor %}
 
-# Services
+<h1>Services</h1>
