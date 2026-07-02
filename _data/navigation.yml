@@ -3,17 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  # - title: "Talks"
-  #   url: /talks/    
+  - title: "Reflections"
+    url: /reflections/
 
-  # - title: "Teaching"
-  #   url: /teaching/    
-    
-  #- title: "Portfolio"
-   # url: /portfolio/
-        
-  #- title: "Blog Posts"
-  #  url: /year-archive/
-    
   - title: "CV"
     url: http://bowie375.github.io/files/resume.pdf
